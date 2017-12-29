@@ -1,3 +1,1 @@
-"""POKEMON STATS ANALYSIS
-Hello People.....
-I have tried to imply as many things as possible for better visualization."""
+A deep dive into the world of pokemon. i have used libraries like Seaborn and matplotlib to visualise the data. Scatter plot, histogram, density plot, bar plots, box plot, radar chart and heat maps were all used to understand different numerical and categorical variables are prepared for the study of data.
